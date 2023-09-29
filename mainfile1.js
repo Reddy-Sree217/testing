@@ -1,3 +1,3 @@
 <script>
-file1 main
+file1 main updated
 </script>
